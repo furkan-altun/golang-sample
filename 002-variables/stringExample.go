@@ -15,7 +15,7 @@ func main() {
 	fmt.Println("y nin değeri: -", y, "-")
 	fmt.Printf("y nin tipi: %T \n", y)
 
-	y = "Furkan Altun"
+	y = "Furkan Altun, Beşiktaş"
 
 	fmt.Println(y)
 	fmt.Printf("%T \n", y)
