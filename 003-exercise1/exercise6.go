@@ -2,8 +2,7 @@ package main
 
 import "fmt"
 
-i := 5
-
 func main() {
+	i := 5
 	fmt.Println(i)
 }
