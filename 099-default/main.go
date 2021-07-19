@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	color.Red.Println("This is color red!")
+	color.Green.Println("This is color red!")
 }
